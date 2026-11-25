@@ -1,5 +1,7 @@
 <div align="center">
 
+English · [Русский](README.ru.md)
+
 # sup
 
 **i build small, fast desktop software for Linux, mostly in Rust.**<br>
@@ -8,6 +10,9 @@ desktop shells, login greeters, Telegram bots, Android apps and whatever my Arch
 <img src="https://img.shields.io/badge/daily_driver-Arch_+_Hyprland-7daea3?style=flat-square&labelColor=282828" alt="Arch + Hyprland">
 <img src="https://img.shields.io/badge/knows-Windows_inside_out-d8a657?style=flat-square&labelColor=282828" alt="Windows">
 <img src="https://img.shields.io/badge/speaks-русский_·_English-a9b665?style=flat-square&labelColor=282828" alt="Russian and English">
+
+<a href="https://t.me/chuhchuh21"><img src="https://img.shields.io/badge/Telegram-@chuhchuh21-7daea3?style=flat-square&labelColor=282828&logo=telegram&logoColor=white" alt="Telegram"></a>
+<a href="mailto:chuhchuh420@pm.me"><img src="https://img.shields.io/badge/email-chuhchuh420@pm.me-d3869b?style=flat-square&labelColor=282828&logo=protonmail&logoColor=white" alt="email"></a>
 
 </div>
 
@@ -39,9 +44,16 @@ desktop shells, login greeters, Telegram bots, Android apps and whatever my Arch
 | [**chuhshell**](https://github.com/chuh420/chuhshell) | desktop shell for Hyprland, niri and sway | Rust |
 | [**clawd-tg-bot**](https://github.com/chuh420/clawd-tg-bot) | drive Claude Code on your own machine from a phone through Telegram | Python |
 | [**bookbot**](https://github.com/chuh420/bookbot) | Telegram booking bot for small businesses: services, specialists, reminders, admin tools, ru/kk/en | Python, SQLite |
-| chuhgreet | TUI login greeter for greetd | Rust, ratatui |
+| [**chuhgreet**](https://github.com/chuh420/chuhgreet) | TUI login greeter for greetd | Rust, ratatui |
 | chuh translate | Android app for speech transcription and translation with your own Gemini key | Flutter |
 | chuhfetch | system fetch tool, libc and syscalls only | C |
 | rice-newtab | custom new tab page for my browser with a Rust data collector | Rust, JS |
 
 <sub>projects without a link are private for now.</sub>
+
+### contact
+
+i take freelance and part-time work: Telegram bots, desktop tools for Linux, small apps and scripts. i'm a student, so i answer in the morning and in the evening (UTC+5).
+
+- Telegram: [@chuhchuh21](https://t.me/chuhchuh21)
+- email: [chuhchuh420@pm.me](mailto:chuhchuh420@pm.me)
